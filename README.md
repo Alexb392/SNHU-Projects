@@ -19,7 +19,8 @@ just keep the menu in there and create something else for the math.
 Q: Which pieces of the code did you find most challenging to write, and how did you overcome this? What tools or resources are you 
 adding to your support network?
 A: as mentioned before, I think the think I found the most challengeing was getting the math to work. I had make a few forum posts on 
-places like stack overflow and reddit and I was able to get a lot of answers to my questions on those sites.
+places like stack overflow and reddit and I was able to get a lot of answers to my questions on those sites. I also found some really great
+Youtube channels that have great information and little projects that they show you how to programm
 5.
 Q: What skills from this project will be particularly transferable to other projects or course work?
 A: Creating menus was a good skill that I had roughly developed during this project. I find it fairly simple to design simple menus
